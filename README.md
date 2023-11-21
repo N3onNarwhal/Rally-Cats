@@ -1,8 +1,7 @@
 # Rally-Cats
-A Pong-like arcade game with cats
+A Pong-like arcade game with cats.
 
-This is a personal project I worked on to better understand UI creation and collisions in Unity Engine.
+This is a personal project I worked on to gain a better understanding of UI creation and collisions in Unity Engine.
+The repository contains all of the assets used for the creation of the game, as well as the build files for the game.
 
-This repository contains all of the assets, scripts, etc. used for the creation of the game.
-
-To access just the game, please check out my itch.io page here: https://n3onnarwhal.itch.io/rally-cats
+You can also download the game as a zip file through my itch.io page: https://n3onnarwhal.itch.io/rally-cats
